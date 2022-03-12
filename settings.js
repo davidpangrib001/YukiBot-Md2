@@ -31,8 +31,8 @@ global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder i
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/995b10e12d21a600d8954.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.owner = ["6282128475388","0","6282160268332"] //ganti agar fitur owner bisa di gunakan
-global.packname = 'Yang Maling Moga keturunan-nya gak beruntung sampe 3 keturunan' //sticker wm ubah
-global.author = '\n\n\n\n' //sticker wm ganti nama kalian
+global.packname = '' //sticker wm ubah
+global.author = '\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n@david.png\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n' //sticker wm ganti nama kalian
 global.sessionName = 'sesimd'
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
